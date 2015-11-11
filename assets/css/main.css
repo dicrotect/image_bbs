@@ -1,0 +1,13 @@
+body{
+  background-color: #CEECFF;
+}
+
+td{
+  border-style: solid;
+  background-color: #96B3FF;
+  padding: 10px 50px 10px 50px;
+}
+
+table{
+  text-align: center;
+}
